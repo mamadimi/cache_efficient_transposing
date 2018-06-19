@@ -1,0 +1,17 @@
+Aristotle University of Thessaloniki
+Faculty of Electrical & Computer Engineering 
+
+Diploma Thesis : Cache efficient algorithm for applying random permutations to a matrix
+
+Permutations are used widely in mathematics, especially in the field of Combinatorics. Furthermore, permutations are widely utilized in computer science. 
+Applying a suitable permutation on a set of data can potentially lead to higher levels of spatial locality and as a result boost the performance of algorithms applied to them.
+Simple hierarchical methods for implementing a permutation are presented and efforts are made in order to develop cache efficient algorithms for this purpose.
+
+In conclusion, the purpose of this paper is the in depth understanding of the functionality of cache memory and its proper utilization
+in order to boost the performance of matrix transpositions and matrix permutations.
+
+Mamagiannos Dimitrios
+Thessaloniki(Greece),October 2016
+
+
+

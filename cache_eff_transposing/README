@@ -1,0 +1,9 @@
+OPENMP and Cilk  implementations of simple transposing and  cache efficient transposing.
+
+generate_perm_vector:
+Generates a random vector that is being used to transposing the elements in random places.
+
+ 
+Compile: Makefile
+
+test.sh : A shell that runs the simple and the improved methods for power of 2 datasets.
